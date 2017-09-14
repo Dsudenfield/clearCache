@@ -20,3 +20,4 @@ tell application "System Events" to tell process "Safari"
     end tell
     keystroke "w" using command down
 end tell
+
